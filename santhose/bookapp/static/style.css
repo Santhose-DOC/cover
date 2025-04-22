@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .container{
+    width:100%;
+    height: auto;
+    position: relative;
+  
+  }
+  .container img{
+    display: block;
+    margin: auto;
+    
+  }
+  .font-creepster {
+      font-family: 'Creepster', cursive; 
+    }
+    
+  .font-nosifer {
+      font-family: 'Nosifer', cursive;
+    }
+  .container .text{
+      position: absolute;
+      color: rgb(78, 9, 9);
+      top: 125px;
+      left: 750px;
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+      
+    }
+  
+    .container .text1{
+      position: absolute;
+      color: rgb(146, 8, 8);
+      top: 165px;
+      left: 725px;
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+      
+    }
+  .container .text2{
+    position: absolute;
+      color: rgb(146, 8, 8);
+      top: 825px;
+      left: 815px;
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+      letter-spacing: 4px;
+  }
+  .container .text3{
+    position: absolute;
+      color: rgb(146, 8, 8);
+      top: 850px;
+      left: 810px;
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+      letter-spacing: 4px;
+  }
+  
